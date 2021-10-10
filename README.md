@@ -34,7 +34,7 @@ dstpath - The destination path to put the generated images.
 
 AUTHOR:
 
-    Pawpaw <lvyexuwenfa100@126.com>
+Pawpaw <lvyexuwenfa100@126.com>
     
 MODIFICATIONS:
 
