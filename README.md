@@ -3,12 +3,13 @@ Generates the bewildering collection of icons and screen files needed for iOS an
 
 This is an update of a script originally by Wenva <lvyexuwenfa100@126.com>. The modifications were written by Anthony W. Hursh <pulpgrinder@protonmail.com>, and are released under a license identical to the original.
 
-Wenva's original script only generated the icons that were needed for iOS circa 2014. Since then, the number of icons needed for iOS has proliferated. The script now generates all resolutions needed for iOS as of late 2021 plus a few extra resolutions,for possible future use). 
+Wenva's original script only generated the icons that were needed for iOS circa 2014. Since then, the number of icons needed for iOS has proliferated. The script now generates all resolutions needed for iOS as of late 2021 plus a few extra resolutions for possible future use. 
 
-In addition, the script also generates the scads of image files (icons, logos, and splash screens) needed to build an Android app.
+In addition, the updated script also generates the scads of image files (icons, logos, and splash screens) needed to build an Android app.
 
 USAGE:
-   ./buildiconset.sh squarefile circularfile dstpath
+
+    ./buildiconset.sh squarefile circularfile dstpath
 
 DESCRIPTION:
 
