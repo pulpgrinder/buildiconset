@@ -19,7 +19,7 @@ This script makes generating iOS and Android app icons easier and simpler. You w
     
 from the terminal. If you're on other platforms, you're on your own. :-)
     
-The script generates 47 icon/logo/promo image files and 11 blank Android splash screens, starting with only two original files. This is enough to cover both platforms, at least for now. There are also a few extra resolutions that represent a wild guess of what might be needed for near-future devices (just a guess, though... only Apple and Google know for sure).
+The script generates 47 icon/logo/promo image files (yeah, 47) and 11 blank Android splash screens (yeah, 11, making 58 image files in total), starting with only two original files. This is enough to cover both platforms, at least for now, with a few extra resolutions that represent a wild guess of what might be needed in the near future (but only Apple and Google know for sure).
 
 Obviously the results may not be as good as individually hand-tuning each file, but the result is often quite acceptable, especially if you start with base images that are large enough (anyone who works with images knows that the results from shrinking an image are generally better than the results from making it larger). If nothing else, the generated image set will provide a basis to get your app running for testing.
     
